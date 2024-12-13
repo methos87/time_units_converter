@@ -1,0 +1,10 @@
+{
+    "cSpell.enabledFileTypes": {
+        "python": true
+    },
+    "python.testing.pytestArgs": [
+        "javitott_kod"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}

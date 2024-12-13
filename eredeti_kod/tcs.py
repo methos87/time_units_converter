@@ -1,3 +1,10 @@
+"""
+Time Unit Converter
+Created by: Akos Novak
+Date: 2023.05.18
+Version: 1.2
+"""
+
 def myfunction(seconds):
     tl = []
     # print(f"seconds: {seconds}")
